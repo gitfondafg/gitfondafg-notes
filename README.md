@@ -1,0 +1,2 @@
+# gitfondafg-notes
+small tools I use daily
